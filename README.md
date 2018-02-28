@@ -11,7 +11,7 @@ This is a photo of the website as they designed it. I was tasked with replicatin
 I used HTML and CSS in this project. I used the picture that they sent me and created something as close to that as I possibly could in the time allowed. 
 
 ## Installation Instructions
-This mock up website can be viewed at: 
+This mock up website can be viewed at: https://schop23.github.io/capitol/
 
 ## Authors
 Website design: Lauren Soloman, Samantha Lanni, and Yasmin Torabian  |   Website coding: Shelley Schoppert
