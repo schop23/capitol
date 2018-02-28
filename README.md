@@ -5,7 +5,7 @@ This was a project by fellow General Assembly students for their UX/UI final pro
 
 ## Brief Example
 This is a photo of the website as they designed it. I was tasked with replicating that as close as I could.
-![alt text](https://github.com/schop23/capitol/blob/master/img/Capitol%20revised.pdf?raw=true)
+![alt text](https://github.com/schop23/capitol/blob/master/img/capitol-revised.png?raw=true)
 
 ## List of Technologies
 I used HTML and CSS in this project. I used the picture that they sent me and created something as close to that as I possibly could in the time allowed. 
