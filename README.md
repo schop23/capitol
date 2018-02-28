@@ -13,5 +13,4 @@ I used HTML and CSS in this project. I used the picture that they sent me and cr
 This mock up website can be viewed at: 
 
 ## Authors
-Website design: Lauren Soloman, Samantha Lanni, and Yasmin Torabian
-Website coding: Shelley Schoppert
+Website design: Lauren Soloman, Samantha Lanni, and Yasmin Torabian  |   Website coding: Shelley Schoppert
